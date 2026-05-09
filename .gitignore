@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 /Debug
 /myThreadPool/Debug
 *.exe
 v15
 /myThreadPool/myThreadPool.vcxproj.user
+=======
+/ThreadPool/.vs/ThreadPool/v15
+/ThreadPool/Debug
+/ThreadPool/ThreadPool/Debug
+>>>>>>> b8568c9a125fc5cb7c4e8fed2ff402623e835390
+
+/ThreadPool
+
+
