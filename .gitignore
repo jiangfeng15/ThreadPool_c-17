@@ -1,0 +1,5 @@
+/Debug
+/myThreadPool/Debug
+*.exe
+v15
+/myThreadPool/myThreadPool.vcxproj.user
